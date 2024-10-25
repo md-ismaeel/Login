@@ -2,7 +2,7 @@
 
 ## Hosted Link
 
-[Click here to view the project](https://kodekalp-assignment.netlify.app/)
+[Click here to view the project](https://kkdp-assignment.netlify.app)
 
 ## Login Page
 
