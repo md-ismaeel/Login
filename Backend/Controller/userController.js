@@ -13,10 +13,10 @@ export const userRegistration = async (req, res) => {
     // console.log(req.body);
     const { userName, email, password, mobileNumber } = req.body;
 
-    if (!userName || !email || !firstName || !lastName || !password || !mobileNumber) {
+    if (!userName || !email || !password || !mobileNumber) {
         return res.status(400).json({
             success: false,
-            message: "All required!!"
+            message: "All required!! ok"
         })
     }
 
