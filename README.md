@@ -10,7 +10,7 @@
 
 ## Registration Page
 
-![Registration Page](/Frontend/src/assets/Screenshot%202024-09-20%20133625.png)
+![Registration Page](/Frontend/src/assets/Screenshot%202024-10-25%20102703.png)
 
 ## Features
 
